@@ -3,4 +3,4 @@
 # Contributing to CONTRIBUTING.md
 
 ## Attribution
-[Limon](https://github.com/Limon00001/jbbmo-Introduction-to-Git-and-GitHub/edit/master/CONTRIBUTING.md)!
+[Limon](https://github.com/Limon00001/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CONTRIBUTING.md)!
